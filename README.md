@@ -7,7 +7,7 @@
 
 ### Things I'm working on right now 👨‍💻
 
-📦 Video series on [Docker, Kubernetes and Laravel](https://www.tonysm.com/pages/docker-for-laravel-developers)
+📦 Video series on [Docker, Kubernetes and Laravel](https://www.tonysm.com/courses/kubernetes-for-laravel-developers/)
 
 ### You can find me online 🔍
 
