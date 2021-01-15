@@ -8,7 +8,7 @@
 ### Things I'm working on right now 👨‍💻
 
 📦 Video series on [Docker, Kubernetes and Laravel](https://www.tonysm.com/courses/kubernetes-for-laravel-developers/)<br>
-📦 Open-Source Package to bring [Hotwire](https://hotwire.dev/) goodies to Laravel apps (link soon)
+📦 [Turbo Laravel](https://github.com/tonysm/turbo-laravel): an Open-Source Package to bring [Hotwire](https://hotwire.dev/) goodies to Laravel apps
 
 ### You can find me online 🔍
 
