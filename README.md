@@ -1,7 +1,7 @@
 ### <samp>Hey, there! 👋</samp>
 <samp>
 
-👨‍💻 Software Engineer at [Woksite Safety](https://worksitesafety.ca) (previously at [madewithlove](https://madewithlove.com/))<br>
+👨‍💻 Software Engineer at [Tighten](https://tighten.co/), (previously [Woksite Safety](https://worksitesafety.ca) and before that [madewithlove](https://madewithlove.com/))<br>
 🇧🇷 From Brazil<br>
 📅 [Meetup](https://www.meetup.com/pt-BR/maceio-dev-meetup/) organizer
 
