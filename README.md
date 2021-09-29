@@ -16,6 +16,7 @@
 
 🐦 [Twitter](https://twitter.com/tonysmdev)<br>
 🕸️ [Personal website and blog](https://tonysm.com)<br>
+🖄 [Newsletter](https://world.hey.com/tonysm)<br>
 🎥 [Youtube Channel](https://www.youtube.com/channel/UCGtfJjAR5JeBPAmxN_ZHx4Q?view_as=subscriber)
 
 </smap>
