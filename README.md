@@ -1,11 +1,10 @@
-### <samp>Hey, there! 👋</samp>
-<samp>
+### <em><samp>Hey, there! 👋</samp></em>
 
 👨‍💻 Programmer at [Tighten](https://tighten.co/), (previously [Worksite Safety](https://worksitesafety.ca) and before that [madewithlove](https://madewithlove.com/))<br>
 🇧🇷 From Brazil<br>
 📅 [Meetup](https://www.meetup.com/pt-BR/maceio-dev-meetup/) organizer
 
-### Things I'm working on right now 👨‍💻
+### <em><samp>Things I'm working on right now 👨‍💻</samp></em>
 
 📦 [Turbo Laravel](https://github.com/tonysm/turbo-laravel): an Open-Source Package to bring [Hotwire](https://hotwired.dev/) goodies to Laravel apps<br>
 📦 [Importmap Laravel](https://github.com/tonysm/importmap-laravel): a PHP port of the Importmap Rails gem, which allows us to write modern JavaScript without the need for bundlers, all relying on ESM<br>
@@ -14,11 +13,9 @@
 📦 [GlobalId Laravel](https://github.com/tonysm/globalid-laravel): a package that generates Global IDs for your Laravel apps. Also inspired by the `globalid` gem from Rails<br>
 🎥 Video series on [Docker, Kubernetes and Laravel](https://www.tonysm.com/courses/kubernetes-for-laravel-developers/)
 
-### You can find me online 🔍
+### <em><samp>You can find me online 🔍</samp></em>
 
 🐦 [Twitter](https://twitter.com/tonysmdev)<br>
 🕸️ [Personal website and blog](https://tonysm.com)<br>
 🖄 [Newsletter](https://world.hey.com/tonysm)<br>
 🎥 [Youtube Channel](https://www.youtube.com/channel/UCGtfJjAR5JeBPAmxN_ZHx4Q?view_as=subscriber)
-
-</smap>
